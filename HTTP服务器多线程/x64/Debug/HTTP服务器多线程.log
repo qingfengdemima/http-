@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\22847\Desktop\HTTP服务器多线程\HTTP服务器多线程\HTTP服务器多线程\main.cpp(93,22): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\22847\Desktop\HTTP服务器多线程\HTTP服务器多线程\HTTP服务器多线程\main.cpp(163,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\22847\Desktop\HTTP服务器多线程\HTTP服务器多线程\HTTP服务器多线程\main.cpp(177,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\22847\Desktop\HTTP服务器多线程\HTTP服务器多线程\HTTP服务器多线程\main.cpp(178,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  HTTP服务器多线程.vcxproj -> C:\Users\22847\Desktop\HTTP服务器多线程\HTTP服务器多线程\x64\Debug\HTTP服务器多线程.exe
